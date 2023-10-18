@@ -6,5 +6,5 @@ This is a Spotify clone project built using HTML and CSS. It includes the follow
 * Song list
 * Album covers
 * Basic playlist functionality
+ ![Screenshot](https://github.com/shubhampadmane8/Spotify-clone/assets/111989043/02c6f048-9fca-4a63-9d6c-8b8933ca7f45)
 
-![SPOTIFY](https://github.com/shubhampadmane8/Spotify-clone/assets/111989043/45eeb929-960c-454c-9741-c59affe9dd77)
